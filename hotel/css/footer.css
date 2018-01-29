@@ -1,0 +1,40 @@
+body{
+  background-image: url(../img/grid.jpg);
+  font-family: 'Open Sans',sans-serif;
+}
+
+.vertical-spacer{
+  height: 8em;
+}
+.feature img{
+  margin-bottom: 2em;
+  width: 96px;
+}
+.feature{
+  color: #444444;
+  font-weight: 300px;
+  letter-spacing: 1px;
+}
+
+#footer{
+  background-color: #222;
+  color: #aaaaaa;
+  padding-top: 3em;
+  padding-bottom: 3em;
+}
+
+#footer a{
+  color: #cccccc;
+}
+
+#footer a:hover{
+  color: white;
+}
+
+.social a{
+  font-size: 24px;
+}
+
+.social a:hover{
+  text-decoration: none;
+}
